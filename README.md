@@ -1,4 +1,4 @@
-### วิธีการTest ยิง API ที่ผมทำ
+### วิธีการTestยิง API
 1.มีโปรแกรมสำหรับการ Test Api ของผมคือ Postman
 ![image](https://github.com/user-attachments/assets/2f0e6071-a922-4240-9abf-68ec3012f322)
 
