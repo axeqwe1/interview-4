@@ -1,6 +1,7 @@
 ### วิธีการTest ยิง API ที่ผมทำ
 1.มีโปรแกรมสำหรับการ Test Api ของผมคือ Postman
 ![image](https://github.com/user-attachments/assets/2f0e6071-a922-4240-9abf-68ec3012f322)
+
 2.สร้าง Endpoint Api โดยจะมี เพิ่ม ลบ แก้ไข
 ![image](https://github.com/user-attachments/assets/2c9bf740-1d77-4113-ad0a-7e6e84b75258)
 -- การเพิ่มข้อมูลจะต้องใช้ post สำหรับการส่ง Request เข้าสู่ Api
